@@ -1,0 +1,15 @@
+<nav>
+      <div id="home">
+        <div class="profile_name">
+          poojaben j patel
+          <div class="contact_info">
+            <img src="envelope.png" alt="https://icons8.com/icon/124377/circled-envelope"/>
+            2608rpooja@gmail.com
+          </div>
+          <div style="clear:both;"></div>
+          <div class="contact_info">
+            <img src="phone.png" alt="https://icon8.com/icon/124377/circled-enevlope"/>
+            +19304441080
+
+          </div>
+        </div>
