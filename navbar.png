@@ -1,0 +1,8 @@
+<div class="topdiv">
+          <a class="topmenu" href="#about-me">About Me</a>
+           <a class="topmenu" href="#skills">Skills</a>
+           <a class="topmenu" href="projects">Projects</a>
+           <a class="topmenu" href="#Recommendation">recommendations</a>
+          <!--add the link for skills, project and recommendation here-->
+
+        </div>
