@@ -185,14 +185,14 @@
             <input type="text" placeholder="Name (Optional)"> <br/>
             <textarea id="new_recommendation" cols="500" rows="10" placeholder="Message"></textarea>
             <div class="flex_center">
-                <button id="recommend_btn" onclick="addRecommendation();showPopup();"> Submit  </button>
+                <button id="recommend_btn" onclick="addRecommendation()"> Submit  </button>
               </fieldset>
            </div> 
     </section>
               <div class="popup" id="popup" class="flex_center">
         <img src="images.png/checkbox.jpg"/>
         <h3>Thanks for leaving a recommendation !</h3>
-        <button >Ok</button>
+        <button id="popup" onclick="showPopup">Ok</button>
     
       </div>
           
