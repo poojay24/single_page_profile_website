@@ -18,8 +18,8 @@ function addRecommendation() {
     }
   }
   
-  function showPopup(bool) {
-    if (bool) {
+  function showPopup() {
+    if () {
       document.getElementById('popup').style.visibility = 'visible'
     } else {
       document.getElementById('popup').style.visibility = 'hidden'
